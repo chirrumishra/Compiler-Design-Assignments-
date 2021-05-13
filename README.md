@@ -1,4 +1,4 @@
-# Compiler Design Assignments all weeks 
+# Compiler Design Assignments all weeks experiments 
 
 List of programs :
 
