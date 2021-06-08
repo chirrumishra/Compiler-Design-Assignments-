@@ -14,4 +14,4 @@ List of programs :
 - Week 10: Intermediate code generation – Postfix, Prefix
 - Week 11: Intermediate code generation – Quadruple, Triple, Indirect triple
 - Week 12: Implementation of DAG
-- Week 13: Implement any one storage SLO-2 allocation strategies (heap, stack, static)
+- Week 13: Implement any one storage SLO-2 allocation strategies (Stack used)
